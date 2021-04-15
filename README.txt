@@ -24,6 +24,11 @@ Credits:
 
 	Demo Images:
 		Unsplash (unsplash.com)
+			- https://unsplash.com/photos/vpOeXr5wmR4
+			- https://unsplash.com/photos/oVWilf8znF8
+			- https://unsplash.com/photos/haOWVRejZs8
+			- https://unsplash.com/photos/JKUTrJ4vK00
+			- https://unsplash.com/photos/6Nbo9Pn0yJA
 
 	Icons:
 		Font Awesome (fontawesome.io)
